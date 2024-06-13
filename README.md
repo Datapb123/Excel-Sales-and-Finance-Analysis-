@@ -31,16 +31,36 @@
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+**Technical Skills:**
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+1. **ETL Methodology (Extract, Transform, Load):**
+   - Proficient in the fundamental process of extracting, transforming, and loading data from diverse sources, ensuring data quality and consistency.
+
+2. **Date Table Generation with Power Query:**
+   - Capable of crafting date tables efficiently using Power Query, essential for organizing temporal data for analytical purposes.
+
+3. **Fiscal Months and Quarters Derivation:**
+   - Able to derive fiscal time periods accurately, enabling aligned financial analysis and reporting.
+
+4. **Data Model Relationship Establishment with Power Pivot:**
+   - Skilled in establishing robust data model relationships using Power Pivot, fostering data coherence and facilitating complex analysis.
+
+5. **Supplementary Data Incorporation:**
+   - Proficient in seamlessly integrating supplementary data into existing models, enhancing analytical capabilities and insights.
+
+6. **DAX Calculated Columns Creation:**
+   - Expertise in leveraging DAX expressions to create dynamic calculated columns, empowering in-depth analysis and reporting capabilities.
+
+**Soft Skills:**
+
+1. **Understanding of Sales & Finance Reports:**
+   - Possessing a refined understanding of sales and finance reporting requirements, ensuring reports are insightful and actionable.
+
+2. **User-Centric Report Design:**
+   - Skilled in designing reports with a focus on user experience, prioritizing clarity and usability to deliver meaningful insights.
+
+3. **Optimization of Report Generation:**
+   - Proficient in fine-tuning report generation processes meticulously, optimizing efficiency and resource utilization for timely delivery of reports.
+
+4. **Systematic Report Building Approach:**
+   - Demonstrating proficiency in developing systematic methodologies for devising report building plans, ensuring consistency and effectiveness in reporting practices.
